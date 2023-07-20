@@ -14,10 +14,10 @@
 -------
 
 ## __Skills__
-        * C++
-        * Java
-        * Git/GitHub
-        * VS Code, IntelliJ IDEA     
+        - C++
+        - Java
+        - Git/GitHub
+        - VS Code, IntelliJ IDEA     
 ---------
 
 ## __Code Example__
