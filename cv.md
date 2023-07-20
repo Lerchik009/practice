@@ -6,8 +6,7 @@
         * Phone: +375 33 698 59 33
         * Email: valeria.merk.06.04@gmail.com
         * GitHub: Lerchik009
-        * Telegram: @mrk_valeryia
-        
+        * Telegram: @mrk_valeryia     
 ---------
 
 ##__About me__
