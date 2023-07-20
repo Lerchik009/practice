@@ -9,20 +9,18 @@
         * Telegram: @mrk_valeryia     
 ---------
 
-##__About me__
+## __About me__
     _My name is Valeria. I'm 18 years old. I am studying at VSTU, specialty information systems and technologies (in business management). Graduated from the 1st course. I am purposeful, reliable, balanced, have patience, self-control. I can work in a team. I like to be creative._
-    
 -------
 
-##__Skills__
+## __Skills__
         * C++
         * Java
         * Git/GitHub
-        * VS Code, IntelliJ IDEA
-        
+        * VS Code, IntelliJ IDEA     
 ---------
 
-##__Code Example__
+## __Code Example__
     ```
     for (int i = 0; i < m; i++) { 
         min = A[i][0]; 
@@ -39,12 +37,10 @@
     ```
 --------
 
-##__Education__
+## __Education__
     _Secondary general education_
-    
 ----------
 
-##__English language__  
+## __English language__  
     _I studied German at school. I started studying English at the university._
-    
 ----------
