@@ -10,7 +10,7 @@
 ---------
 
 ## __About me__
-    _My name is Valeria. I'm 18 years old. I am studying at VSTU, specialty information systems and technologies (in business management). Graduated from the 1st course. I am purposeful, reliable, balanced, have patience, self-control. I can work in a team. I like to be creative._
+_My name is Valeria. I'm 18 years old. I am studying at VSTU, specialty information systems and technologies (in business management). Graduated from the 1st course. I am purposeful, reliable, balanced, have patience, self-control. I can work in a team. I like to be creative._
 -------
 
 ## __Skills__
@@ -37,9 +37,9 @@
 --------
 
 ## __Education__
-    *Secondary general education.*
+_Secondary general education._
 ----------
 
-## __English language__  
-    _I studied German at school. I started studying English at the university._
+## __English language__
+_I studied German at school. I started studying English at the university._
 ----------
