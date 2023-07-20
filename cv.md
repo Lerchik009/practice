@@ -21,7 +21,7 @@
 ---------
 
 ## __Code Example__
-    ```
+```
     for (int i = 0; i < m; i++) { 
         min = A[i][0]; 
         for (int j = 0; j < n; j++) { 
@@ -31,14 +31,13 @@
               minI[i] = i + 1; 
               minJ[i] = j + 1; 
          } 
-      } 
-   } 
-
-    ```
+       } 
+    } 
+```
 --------
 
 ## __Education__
-    _Secondary general education_
+    *Secondary general education.*
 ----------
 
 ## __English language__  
